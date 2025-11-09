@@ -24,4 +24,4 @@ It is required for you to be already using your browser's dark theme, otherwise 
 
 
 # Preview:
-![](Downloads/Screenshot_20251109_215030.png)
+< img src="Downloads/Screenshot_20251109_215030.png" >
