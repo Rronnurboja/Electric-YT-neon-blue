@@ -23,4 +23,4 @@ It is required for you to be already using your browser's dark theme, otherwise 
 6. Select `manifest.json` from the folder
 
 
-(Screenshot_20251109_215030.png)
+<img width="1920" height="1080" alt="Screenshot_20251109_215030" src="https://github.com/user-attachments/assets/cd8bddbb-0d3d-4934-83b9-34d21086a0f0" />
