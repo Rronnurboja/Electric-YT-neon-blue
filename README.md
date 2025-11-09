@@ -1,6 +1,8 @@
 # Electric-YT-neon-blue
 A beautiful neon blue theme for YouTube that makes your dark themed YouTube page flourish! 
 
+# IMPORTANT NOTE:
+It is required for you to be already using your browser's dark theme, otherwise you will get very ugly results. Enjoy! 😊
 
 ## Installation
 
