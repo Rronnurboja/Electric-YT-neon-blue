@@ -3,7 +3,7 @@ A beautiful neon blue theme for YouTube that makes your dark themed YouTube page
 
 # Features:
 * Slick, electric feel and amazing look,
-* Blur effect on shorts to give it a cool edge (and filter out stuff that YouTube may bring in your feed without you wanting them),
+* Blur effect on shorts to give it a cool edge (and filtering out stuff that YouTube may bring in your feed without you wanting them),
 * A definite upgrade from what you already have on your browser by default!
 
 # IMPORTANT NOTE:
