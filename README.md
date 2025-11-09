@@ -4,7 +4,7 @@ A beautiful neon blue theme for YouTube that makes your dark themed YouTube page
 ![Before/After](images/screenshot-after-dark.png)
 
 
-## 🚀 Installation
+## Installation
 
 ### Chrome / Brave / Edge / Opera and other Chromium-based browsers
 1. Download this repository as ZIP (Code → Download ZIP)
@@ -22,11 +22,4 @@ A beautiful neon blue theme for YouTube that makes your dark themed YouTube page
 5. Click **Load Temporary Add-on**
 6. Select `manifest.json` from the folder
 
-## 🎯 Supported Sites
-- YouTube.com
 
-## 🛠️ Support
-For issues or feature requests, please [create an issue](../../issues).
-
-## 📄 License
-MIT License - see LICENSE file for details.
