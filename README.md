@@ -22,5 +22,6 @@ It is required for you to be already using your browser's dark theme, otherwise 
 5. Click **Load Temporary Add-on**
 6. Select `manifest.json` from the folder
 
+# Preview:
 
 <img width="1920" height="1080" alt="Screenshot_20251109_215030" src="https://github.com/user-attachments/assets/cd8bddbb-0d3d-4934-83b9-34d21086a0f0" />
