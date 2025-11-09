@@ -23,3 +23,5 @@ It is required for you to be already using your browser's dark theme, otherwise 
 6. Select `manifest.json` from the folder
 
 
+# Preview:
+![](Downloads/Screenshot_20251109_215030.png)
